@@ -1,4 +1,4 @@
-#  User Profiling App
+# STMicroelectronics User Profiling App
 
 A comprehensive Microsoft Power Platform solution that streamlines user access management for Sales & Marketing (S&M) teams in APeC and China regi## 📄 Docum## 🔄 Process Transformation
 
