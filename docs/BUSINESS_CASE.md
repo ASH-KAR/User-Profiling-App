@@ -1,4 +1,4 @@
-# Business Case: STMicroelectronics User Profiling App
+# Business Case:  User Profiling App
 
 ## 📈 Executive Summary
 
