@@ -1,8 +1,23 @@
-# User Profiling App
+#  User Profiling App
 
 A comprehensive Microsoft Power Platform solution that streamlines user access management for Sales & Marketing (S&M) teams in APeC and China regi## 📄 Docum## 🔄 Process Transformation
 
-### **AS-IS Process (Current State)**
+### **AS-IS## 📄 Documentation
+
+### **Technical Documentation**
+- `User Profiling App Documentation.pdf` - Complete technical documentation with screenshots
+- `docs/ARCHITECTURE.md` - Comprehensive system architecture and technical design
+- `docs/TECHNICAL_SPECIFICATIONS.md` - Detailed technical specifications matching actual implementation
+- `docs/DEPLOYMENT_GUIDE.md` - Comprehensive deployment and implementation guide
+
+### **Business Documentation**  
+- `docs/BUSINESS_CASE.md` - Business case, ROI analysis, and strategic justification
+- `Profiling2.3.pptx` - Business presentation overview and process walkthrough
+
+### **Project Assets**
+- `docs/IMAGE_EXTRACTION_GUIDE.md` - Guide for extracting and managing screenshots
+- `images/` - Application screenshots and visual documentation
+- `Old Version/` - Previous iterations and backup files for references (Current State)**
 The traditional process involves several pain points:
 1. **Manual Form Filling**: Users complete complex forms without guidance
 2. **Helix Ticket Creation**: Manual ticket creation with limited visibility
